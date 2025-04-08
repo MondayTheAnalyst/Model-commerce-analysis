@@ -113,6 +113,10 @@ This analysis uncovered critical business insights across customer behavior, pro
 - Offices in regions with high average order values (like **Australia and New Zealand**) present opportunities for growth with the right support.
 
 ---
+## 🌸 Conclusion
 
+This project demonstrates how SQL combined with Excel can generate actionable insights from a well-structured business dataset. It reveals how data modeling and query optimization can be used to answer real-world business questions and support decision-making across marketing, finance, logistics, and operations.
+
+---
 
 📬 For questions, feel free to reach out via [obotmonday680@gmail.com].
