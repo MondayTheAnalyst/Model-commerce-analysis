@@ -1,3 +1,6 @@
+USE masters;
+GO
+    
 CREATE DATABSE Model_Commerce;
 GO
 
